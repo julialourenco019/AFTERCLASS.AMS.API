@@ -1,0 +1,6 @@
+@AFTERCLASS.AMS.API_HostAddress = http://localhost:5201
+
+GET {{AFTERCLASS.AMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

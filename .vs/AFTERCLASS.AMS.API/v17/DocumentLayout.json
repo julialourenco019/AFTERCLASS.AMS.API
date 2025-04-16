@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\infrastructure\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:infrastructure\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\application\\auth\\tokenauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:application\\auth\\tokenauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\afterclass.ams.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:afterclass.ams.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\application\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:application\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\infrastructure\\repositories\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:infrastructure\\repositories\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:17:50.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenAuth.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Application\\Auth\\TokenAuth.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\TokenAuth.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Application\\Auth\\TokenAuth.cs",
+              "RelativeToolTip": "Application\\Auth\\TokenAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:11:26.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Key.cs",
+              "RelativeDocumentMoniker": "Key.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Key.cs",
+              "RelativeToolTip": "Key.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:05:42.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T05:45:54.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T05:45:01.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwC4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:44:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Application\\DTOs\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TeacherDTO.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Application\\DTOs\\TeacherDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\TeacherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:36:32.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Domain\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Domain\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Domain\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:35:12.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:33:19.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAEwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:32:45.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Repositories\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Repositories\\ITeacherRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:32:24.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAArwDYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:28:58.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AFTERCLASS.AMS.API.csproj",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj",
+              "RelativeDocumentMoniker": "AFTERCLASS.AMS.API.csproj",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj",
+              "RelativeToolTip": "AFTERCLASS.AMS.API.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T05:26:10.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
