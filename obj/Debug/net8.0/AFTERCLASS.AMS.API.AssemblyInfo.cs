@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AFTERCLASS.AMS.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bd2017b3d435445724ca6e8d02eb3bc6345e86d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5bdfaff34d573c940317b1460e760c9d51c3f16")]
 [assembly: System.Reflection.AssemblyProductAttribute("AFTERCLASS.AMS.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AFTERCLASS.AMS.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

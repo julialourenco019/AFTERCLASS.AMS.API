@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\afterclass.ams.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:afterclass.ams.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\afterclass.ams.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|solutionrelative:afterclass.ams.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23D3BC9B-38EC-455A-930A-207F5CE46E15}|AFTERCLASS.AMS.API.csproj|c:\\users\\julia\\src\\afterclass.ams.api\\application\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +78,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T11:15:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DockerFile",
+              "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\DockerFile",
+              "RelativeDocumentMoniker": "DockerFile",
+              "ToolTip": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\DockerFile",
+              "RelativeToolTip": "DockerFile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T11:06:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -82,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TokenAuth.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Application\\Auth\\TokenAuth.cs",
               "RelativeDocumentMoniker": "Application\\Auth\\TokenAuth.cs",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Key.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Key.cs",
               "RelativeDocumentMoniker": "Key.cs",
@@ -106,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -118,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -130,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -138,12 +172,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAUwC4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T05:44:14.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T05:44:14.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "TeacherDTO.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Application\\DTOs\\TeacherDTO.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\TeacherDTO.cs",
@@ -155,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Domain\\Entities\\Teacher.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Teacher.cs",
@@ -167,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ApplicationDataContext.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Data\\ApplicationDataContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDataContext.cs",
@@ -179,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TeacherRepository.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Repositories\\TeacherRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\TeacherRepository.cs",
@@ -187,12 +220,11 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\TeacherRepository.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAEwCoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T05:32:45.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T05:32:45.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ITeacherRepository.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Infrastructure\\Repositories\\ITeacherRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ITeacherRepository.cs",
@@ -204,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TeacherController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\Controllers\\TeacherController.cs",
               "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
@@ -217,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AFTERCLASS.AMS.API.csproj",
               "DocumentMoniker": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj",
               "RelativeDocumentMoniker": "AFTERCLASS.AMS.API.csproj",
@@ -225,7 +257,8 @@
               "RelativeToolTip": "AFTERCLASS.AMS.API.csproj",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-16T05:26:10.449Z"
+              "WhenOpened": "2025-04-16T05:26:10.449Z",
+              "EditorCaption": ""
             }
           ]
         }
