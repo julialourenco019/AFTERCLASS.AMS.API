@@ -74,4 +74,15 @@ public class TeacherController : ControllerBase
         _repository.DisableTeacher(id);
         return Ok();
     }
+
+
+    [Authorize]
+    [HttpPatch]
+    [Route("api/v1/Teacher/inable{id:Guid}")]
+
+    public IActionResult Inable(Guid id)
+    {
+        _repository.InableTeacher(id);
+        return Ok();
+    }
 }

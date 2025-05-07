@@ -53,7 +53,7 @@ public class TeacherRepository : ITeacherRepository
     {
         var t = _context.Teacher.Find(id);
         if (t != null)
-        {Microsoft.EntityFrameworkCore.DbUpdateException: 'An error occurred while saving the entity changes. See the inner e
+        {
             t.Name = teacher.Name;
             t.Email = teacher.Email;
             t.Password = teacher.Password;
@@ -65,12 +65,23 @@ public class TeacherRepository : ITeacherRepository
     public void DisableTeacher(Guid id)
     {
         var t = _context.Teacher.Find(id);
+        
         if (t != null)
         {
-            t.Disabled = true;
+            t.IsActive = false;
             _context.SaveChanges();
         }
     }
 
-   
+    public void InableTeacher(Guid id)
+    {
+        var t = _context.Teacher.Find(id);
+        if (t != null)
+        {
+            t.IsActive = true;
+            _context.SaveChanges();
+        }
+    }
+
+
 }

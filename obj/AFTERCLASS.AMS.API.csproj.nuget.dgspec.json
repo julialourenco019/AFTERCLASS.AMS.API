@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj": {}
+    "E:\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj": {
+    "E:\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj",
+        "projectUniqueName": "E:\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj",
         "projectName": "AFTERCLASS.AMS.API",
-        "projectPath": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj",
+        "projectPath": "E:\\AFTERCLASS.AMS.API\\AFTERCLASS.AMS.API.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\src\\AFTERCLASS.AMS.API\\obj\\",
+        "outputPath": "E:\\AFTERCLASS.AMS.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.13, )"

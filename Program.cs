@@ -43,10 +43,14 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL") ??
+                       builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<ApplicationDataContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
     new MySqlServerVersion(new Version(8, 0, 34))));
 builder.Services.AddScoped<ITeacherRepository, TeacherRepository>();
+builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 var key = Encoding.ASCII.GetBytes(AFTERCLASS.AMS.API.Key.Secret); 
 
 builder.Services.AddAuthentication(x =>
@@ -68,7 +72,11 @@ builder.Services.AddAuthentication(x =>
     };
 });
 
-
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

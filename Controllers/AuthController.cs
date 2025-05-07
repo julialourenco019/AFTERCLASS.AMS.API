@@ -12,10 +12,12 @@ namespace AFTERCLASS.AMS.API.Controllers
     public class AuthController : ControllerBase
     {
         private readonly  ITeacherRepository _repository;
+       
 
         public AuthController(ITeacherRepository repository)
         {
             _repository = repository;
+            
         }
 
 
@@ -23,18 +25,25 @@ namespace AFTERCLASS.AMS.API.Controllers
         public IActionResult Login(string email, string password)
         {
             var teacher = _repository.GetByEmail(email);
+           
+           
 
-            if (teacher == null)
+            if (teacher == null  )
             {
                 return BadRequest("Email not found.");
             }
 
-            if (teacher.Password != password)
+            if (teacher.Password != password  )
             {
                 return BadRequest("Invalid password.");
             }
+            if (teacher.IsActive == false  )
+            {
+                return BadRequest("you are disconnected.");
+            }
 
             var token = TokenAuth.GenerateToken(teacher);
+           
             return Ok(new { message = "Login successful.", token });
         }
 
@@ -54,11 +63,15 @@ namespace AFTERCLASS.AMS.API.Controllers
             {
                 Name = name,
                 Email = email,
-                Password = password 
+                Password = password ,
+                IsActive = true
             };
 
-            _repository.Add(newTeacher);
+           
 
+            _repository.Add(newTeacher);
+          
+            
             return Ok(new { message = "Registration successful." });
         }
 

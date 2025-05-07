@@ -22,18 +22,49 @@ namespace AFTERCLASS.AMS.API.Migrations
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
+            modelBuilder.Entity("AFTERCLASS.AMS.API.Domain.Entities.Student", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("tinyint(1)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<Guid?>("TeacherId")
+                        .HasColumnType("char(36)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("TeacherId");
+
+                    b.ToTable("Student");
+                });
+
             modelBuilder.Entity("AFTERCLASS.AMS.API.Domain.Entities.Teacher", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("char(36)");
 
-                    b.Property<bool>("Disabled")
-                        .HasColumnType("tinyint(1)");
-
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("longtext");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("tinyint(1)");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -46,6 +77,18 @@ namespace AFTERCLASS.AMS.API.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Teacher");
+                });
+
+            modelBuilder.Entity("AFTERCLASS.AMS.API.Domain.Entities.Student", b =>
+                {
+                    b.HasOne("AFTERCLASS.AMS.API.Domain.Entities.Teacher", null)
+                        .WithMany("Students")
+                        .HasForeignKey("TeacherId");
+                });
+
+            modelBuilder.Entity("AFTERCLASS.AMS.API.Domain.Entities.Teacher", b =>
+                {
+                    b.Navigation("Students");
                 });
 #pragma warning restore 612, 618
         }

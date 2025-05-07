@@ -11,4 +11,5 @@ public interface ITeacherRepository
     void Add(Teacher teacher);
     void Update(Guid id, Teacher teacher);
     void DisableTeacher(Guid id);
+    void InableTeacher(Guid id);
 }

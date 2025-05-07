@@ -20,6 +20,7 @@ public class TokenAuth
             Subject = new System.Security.Claims.ClaimsIdentity(new Claim[]
             {
                 new Claim("TeacherId", teacher.Id.ToString()),
+               
             }),
             Expires = DateTime.UtcNow.AddHours(3),
             Issuer = "AFTERCLASS.AMS.API",
